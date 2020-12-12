@@ -1,0 +1,42 @@
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csproj.CoreCompileInputs.cache
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorAssemblyInfo.cache
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorAssemblyInfo.cs
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.AssemblyInfoInputs.cache
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.AssemblyInfo.cs
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.deps.json
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.runtimeconfig.json
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.runtimeconfig.dev.json
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.dll
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.pdb
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Datos.dll
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\Derian\source\repos\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csprojAssemblyReference.cache
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorTargetAssemblyInfo.cache
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csproj.CopyComplete
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.dll
+C:\Users\Derian\source\repos\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.deps.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Api_Web.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Datos.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\bin\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Api_Web\obj\Debug\netcoreapp2.1\Api_Web.genruntimeconfig.cache

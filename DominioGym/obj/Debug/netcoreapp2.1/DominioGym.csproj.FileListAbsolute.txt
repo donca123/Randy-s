@@ -1,0 +1,18 @@
+C:\Users\Derian\source\repos\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.deps.json
+C:\Users\Derian\source\repos\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\Derian\source\repos\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.csproj.CoreCompileInputs.cache
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.AssemblyInfoInputs.cache
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.AssemblyInfo.cs
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\Derian\source\repos\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\obj\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.deps.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\DominioGym\bin\Debug\netcoreapp2.1\DominioGym.pdb

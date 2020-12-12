@@ -1,0 +1,29 @@
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csprojAssemblyReference.cache
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfo.cs
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.deps.json
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.runtimeconfig.json
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.runtimeconfig.dev.json
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.dll
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\Derian\source\repos\RandyStore\Datos\bin\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csproj.CopyComplete
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.dll
+C:\Users\Derian\source\repos\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.deps.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\DominioGym.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\bin\Debug\netcoreapp2.1\DominioGym.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.pdb
+C:\Users\USUARIO\Desktop\Nueva carpeta\RandyStore\Datos\obj\Debug\netcoreapp2.1\Datos.genruntimeconfig.cache
